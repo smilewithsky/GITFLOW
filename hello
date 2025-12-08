@@ -1,3 +1,5 @@
 console.log('hello')
 
 func a
+
+func b
